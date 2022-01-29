@@ -1,0 +1,1 @@
+rat[epic] | any<damage> @ enemy
